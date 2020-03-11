@@ -1,0 +1,35 @@
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\Precop Ciprian\Desktop\New folder\FiiPractic_Api_DotNet-master\WebApplication1\obj\Debug\netcoreapp2.2\API.pdb
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\Precop Ciprian\Desktop\LibraryManagementSystem\LibraryMangementSystem\WebApplication1\obj\Debug\netcoreapp2.2\API.pdb
